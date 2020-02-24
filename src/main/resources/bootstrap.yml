@@ -12,7 +12,6 @@ spring:
           hostKey: AAAB3NzaC1yc2EAAAADAQABAAACAQC8+Iem4sXiRUg6J15QqlXtmsYdOUmurmUmzbNyCXMrVxLuCCYSjnQA+NjHijwMqFyEydawdsk7AND5I+bYtW1LRWPqbIlLWp0UWb2RRGv2k551Rq25+nlb50Rv1yhw1U09eQPLu/15FE5rB5wR4ejRuVBGLgymTFiiwAJUwU8C32DAnJspcreZCVnt1hzVqeiXvY08R1P+6X3eMzOcrTKJdnj9XnyT+Ah4ejp1KHORMiLesPFDd2sohpNIPfpl70LCXEqaBJBeS6Pb0JU1eoEWuttgVswcnv9ZU/JB1Z2nWLMyjrz0L+geDqJ2d2mF/h9uf7fCwrQn0iMD7wwh5CAHoOdW0Ly8nrn8KywoZ1vrNbS1q+P/dX2JnxtUVVYlB+BL5dKECAK1bVw/u08dtThTiJ+ES6ARdTh1kuZ7j61MoGcEowBDLoZxEWw5jzWLM9pv9SvJQ1rhcqsSV8MRqs77pff5SdwWCkwi/QlJsXWoQ6QD2g/DlFYH52ZyXXY+8YFKr/uz0GMQ8vtqCReqCag4NqXppKiGDF6JeOvV8kucNk0r3z6XkwZJjSV2TDzd8DdHKC0KzI6ClN0f24eleOKS//edfLWHPhey2C4aAXtqfh44MFRhTnJl9xQWq3v5vgARNDPp/w0jauEDKh+D4Dxj4SnnNUC8VYfk7wDcqsv3Lw==
           hostKeyAlgorithm: ssh-rsa
           privateKey: |
-            -----BEGIN RSA PRIVATE KEY-----
             MIIJKQIBAAKCAgEAvPiHpuLF4kVIOideUKpV7ZrGHTlJrq5lJs2zcglzK1cS7ggm
             Eo50APjYx4o8DKhchMnWsHbJOwDQ+SPm2LVtS0Vj6myJS1qdFFm9kURr9pOedUat
             ufp5W+dEb9cocNVNPXkDy7v9eRROawecEeHo0blQRi4MpkxYosACVMFPAt9gwJyb
@@ -62,4 +61,4 @@ spring:
             QW6Ad0Wo3BjAhdcAVqXxENzqYJeJr1EWQwQm9lN6B4Ldfk72hSMw2nXDgKn4oiRK
             3Wc6iHD2nzn2ORu8z1otIQa++7v4OTb7TLgNa1zXqc3Nq7wnC6WKMWeHtaBz9Drz
             JB+y1UW5cf4az1jIxej2AG7aw72TPFyxzGBuwu1NXlfjk4x4Je3ruQ2I6bjJ
-            -----END RSA PRIVATE KEY-----
+
